@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ashampoo Burning Studio.
 **Get the most recent version of Ashampoo Burning Studio today!**
 
 ---
-**Last updated:** 2026-09-16 07:12:39 UTC
+**Last updated:** 2026-09-16 13:07:20 UTC
